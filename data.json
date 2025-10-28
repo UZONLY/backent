@@ -1,0 +1,21 @@
+{
+  "users": [],
+  "admins": [
+    {
+      "id": "6526385624",
+      "dubbingName": "Super Admin",
+      "addedBy": "system",
+      "addedAt": "2025-01-01T00:00:00.000Z",
+      "role": "super_admin"
+    }
+  ],
+  "banners": [],
+  "animes": [],
+  "ads": [],
+  "stats": {
+    "views": 0,
+    "purchases": 0,
+    "users": 0,
+    "totalRevenue": 0
+  }
+}
